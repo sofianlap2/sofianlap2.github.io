@@ -1,5 +1,13 @@
 const posts = [
+{
+    title:"Heat Treatment Oven - Industrial Automation Project",
 
+    date:"July 2026",
+
+    description:"Heat Treatment Oven Siemens S7-1200 PLC | KTP700 HMI | PID_Compact | PROFINET | SCL",
+
+    youtube:"https://www.youtube.com/watch?v=HbpKGMlhrkA"
+},
 {
     title:"Liquid Batching Automated",
 
