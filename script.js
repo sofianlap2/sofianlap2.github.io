@@ -1,4 +1,13 @@
 const posts = [
+    {
+    title:"Automated-Sorting-Conveyor",
+
+    date:"July 2026",
+
+    description:"| *PLC* | Siemens S7-1214C DC/DC/DC (CPU 1214C) | | *HMI* | KTP700 Basic PN | | *Drive* | SINAMICS G120 (Analog 0-10V) | | *Technology* | TO_PositioningAxis with HSC encoder | | *Programming* | SCL (Structured Control Language) | | *Communication* | PROFINET",
+
+    youtube:"https://youtu.be/qJhE9d82KNs"
+},
 {
     title:"Heat Treatment Oven - Industrial Automation Project",
 
@@ -6,7 +15,7 @@ const posts = [
 
     description:"Heat Treatment Oven Siemens S7-1200 PLC | KTP700 HMI | PID_Compact | PROFINET | SCL",
 
-    youtube:"https://www.youtube.com/watch?v=HbpKGMlhrkA"
+    youtube:"https://youtu.be/HbpKGMlhrkA"
 },
 {
     title:"Liquid Batching Automated",
@@ -15,7 +24,7 @@ const posts = [
 
     description:"Automated Liquid Batching System Siemens S7-1200 PLC | KTP700 HMI | PROFINET | SCL Programming",
 
-    youtube:"https://www.youtube.com/watch?v=bf9yCLkUwGU"
+    youtube:"https://youtu.be/bf9yCLkUwGU"
 },
 
 ];
