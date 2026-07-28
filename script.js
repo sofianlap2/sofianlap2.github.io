@@ -1,4 +1,13 @@
 const posts = [
+        {
+    title:"Multi-Station Assembly Line SCADA",
+
+    date:"July 2026",
+
+    description:"| *PLC* | Siemens S7-1214C DC/DC/DC (CPU 1214C) | | *HMI* | KTP700 Basic PN | | SCADA | PUT GET | SCL (Structured Control Language) | | *Communication* | PROFINET",
+
+    youtube:"https://youtu.be/_7aQ1tOyGfc"
+},
     {
     title:"Automated-Sorting-Conveyor",
 
