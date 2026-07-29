@@ -1,5 +1,14 @@
 const posts = [
         {
+    title:"Multi-PLC Handshake Protocol & OPC UA Setup | PLCSIM Advanced",
+
+    date:"July 2026",
+
+    description:"| *PLC* | Siemens S7-2500 |  SCADA | PUT GET | OPC UA | | *Communication* | PROFINET",
+
+    youtube:"https://youtu.be/h1zTNcWrrBU"
+},
+        {
     title:"Multi-Station Assembly Line SCADA",
 
     date:"July 2026",
