@@ -1,4 +1,13 @@
 const posts = [
+                {
+    title:"Siemens PLC + OPC UA + Python + MySQL | Industrial Data Logging Project (TIA Portal V17)",
+
+    date:"July 2026",
+
+    description:" Industry 4.0 data logging project using Siemens automation technologies.",
+
+    youtube:"https://youtu.be/YjcgXqOKmZo"
+},
         {
     title:"Multi-PLC Handshake Protocol & OPC UA Setup | PLCSIM Advanced",
 
