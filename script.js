@@ -1,4 +1,13 @@
 const posts = [
+                  {
+    title:"Star-Delta Motor Starter – EPLAN Electric P8",
+
+    date:"August 2026",
+
+    description:"Two 10 kW 3-phase conveyor motors with electromechanical star-delta starting. Designed to IEC 81346.",
+
+    youtube:"https://youtu.be/1Qw5KFSYSSM"
+},
                 {
     title:"Siemens PLC + OPC UA + Python + MySQL | Industrial Data Logging Project (TIA Portal V17)",
 
