@@ -1,4 +1,13 @@
 const posts = [
+                    {
+    title:"Pick and Place",
+
+    date:"October 2026",
+
+    description:"Design and simulate a system capable of gripping an object, moving it using a pneumatic cylinder, and releasing it at the required position.",
+
+    youtube:"https://youtu.be/Wuk96aCdOZk"
+},
                   {
     title:"Star-Delta Motor Starter – EPLAN Electric P8",
 
