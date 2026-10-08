@@ -1,4 +1,13 @@
 const posts = [
+                      {
+    title:"Hydraulic Scissor Lift",
+
+    date:"October 2026",
+
+    description:"Featuring real-time circuit simulations in FluidSIM to test the 600kg load capacity and pressure relief logic.",
+
+    youtube:"https://youtu.be/g8V3tbPFpPA"
+},
                     {
     title:"Pick and Place",
 
