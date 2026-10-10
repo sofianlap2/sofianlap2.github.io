@@ -1,4 +1,13 @@
 const posts = [
+                        {
+    title:"Motorized Conveyor System",
+
+    date:"October 2026",
+
+    description:"industrial automation project: a fully engineered Motorized Conveyor Belt System.",
+
+    youtube:"https://youtu.be/KayAJnlnbH8"
+},
                       {
     title:"Hydraulic Scissor Lift",
 
